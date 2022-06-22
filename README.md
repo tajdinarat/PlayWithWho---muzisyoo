@@ -1,16 +1,8 @@
-# muzisyo
+# PlayWithWho
+Just a social media sketching.
+## Database Connection
+This app uses firebase database as its main db. You should create a firebase project and add an Android app. 
 
-A new Flutter project.
+Enter your Android package name. Download google-services.json and import it to project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[More about firebase setup.](firebase.google.com/docs/android/setup)
