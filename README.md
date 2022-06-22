@@ -1,7 +1,8 @@
 # PlayWithWho
 Just a social media sketching.
-###Login Screen
-![image](https://user-images.githubusercontent.com/44502981/174998469-f3cf2502-e027-4583-be17-d4ab9ebf5065.png)
+
+### Login Screen
+![image](https://user-images.githubusercontent.com/44502981/175011094-8a2f43bb-90dd-446f-a528-ffb041cbe2ab.png)
 
 ## Database Connection
 This app uses firebase database as its main db. You should create a firebase project and add an Android app. 
