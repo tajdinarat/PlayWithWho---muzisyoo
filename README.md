@@ -1,5 +1,5 @@
 # PlayWithWho
-Just a social media sketching.
+Just another social media prototype :)
 
 ### Login Screen
 ![image](https://user-images.githubusercontent.com/44502981/175011094-8a2f43bb-90dd-446f-a528-ffb041cbe2ab.png)
